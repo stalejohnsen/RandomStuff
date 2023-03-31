@@ -2,10 +2,3 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'RandomStuff'
 theme = 'PaperMod'
-
-params:
-  socialIcons:
-    - name: github
-      url: "https://github.com/stalejohnsen"
-    - name: linkedin
-      url: "https://linkedin.com/in/stalejohnsen"
